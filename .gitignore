@@ -1,2 +1,4 @@
-#Ignore prueba 
-/log_prueba.txt
+#Ignoramos archivos con terminacion '.log'
+/*.log
+#Ignoramos la carpeta llamada 
+/modules/*
